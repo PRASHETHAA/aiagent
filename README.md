@@ -11,7 +11,7 @@ If the room is clean it shifts to the next adjacent room, if it is dirty it clea
 ## PEAS DESCRIPTION
 | Agent type    | performance  measurement      |environment  |   Actuators         |  sensors                       | 
 |-------------  | ---------------------------   | ----------- |-------------------- | ------------------------------ | 
-| vaccum cleaner| cleanliness ,number of moments| Rooms       |  wheels,suction tool|  location, cleanliness         |
+| Vaccum cleaner| Cleanliness ,Moving locations| Room locations       |  Brushes and Vaccum Extractor|  Camera,Dirt detection sensor |         |
 
 
 ## DESIGN STEPS
