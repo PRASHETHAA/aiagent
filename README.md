@@ -9,7 +9,6 @@ Considering Vacuum cleaner as agent and locations of 9 different rooms as enviro
 If the room is clean it shifts to the next adjacent room, if it is dirty it clean the room and continue its activity.
 
 ## PEAS DESCRIPTION
-## PEAS DESCRIPTION
 | Agent type    | performance  measurement      |environment  |   Actuators         |  sensors                       | 
 |-------------  | ---------------------------   | ----------- |-------------------- | ------------------------------ | 
 | vaccum cleaner| cleanliness ,number of moments| Rooms       |  wheels,suction tool|  location, cleanliness         |
@@ -285,8 +284,7 @@ if __name__ == "__main__":
 
 ## OUTPUT
 
-![ai agent output](https://user-images.githubusercontent.com/75236145/162256881-318e8b57-4696-40f9-8f29-ac733c96757b.jpeg)
-
+![ai agent output](https://user-images.githubusercontent.com/75236145/162258144-1dc8eb8f-d5da-41b7-b896-30f34136df11.jpeg)
 
 
 ## RESULT
