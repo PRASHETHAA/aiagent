@@ -43,7 +43,7 @@ The agent should detect the dirt and clean-if the location it is dirty,else it s
 The performance is measured with the dirt detection and cleaning.
 
 ## PROGRAM
-```
+```python
 import random
 import time
 class Thing:
