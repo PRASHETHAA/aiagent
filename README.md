@@ -43,7 +43,7 @@ The agent should detect the dirt and clean-if the location it is dirty,else it s
 The performance is measured with the dirt detection and cleaning.
 
 ## PROGRAM
-
+```
 import random
 import time
 class Thing:
@@ -281,7 +281,7 @@ if __name__ == "__main__":
         time.sleep(3)
 
 
-
+```
 ## OUTPUT
 
 ![ai agent output](https://user-images.githubusercontent.com/75236145/162258144-1dc8eb8f-d5da-41b7-b896-30f34136df11.jpeg)
